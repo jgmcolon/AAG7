@@ -1,0 +1,31 @@
+[33mcommit d146015590cadaa2aa7f3816bf31f6edd8b968d3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jose-mata <jg.colon@gmail.com>
+Date:   Fri Feb 23 11:36:30 2024 -0400
+
+    Revert "add ft notificaion WS"
+    
+    This reverts commit bd54ec59bc3b103df5eb8a99cae282bf5c2f544a.
+
+[33mcommit bd54ec59bc3b103df5eb8a99cae282bf5c2f544a[m
+Author: jose-mata <jg.colon@gmail.com>
+Date:   Fri Feb 23 11:35:31 2024 -0400
+
+    add ft notificaion WS
+
+[33mcommit af9d364233077604cf357753d5355fd73e9b7f88[m
+Author: jose-mata <jg.colon@gmail.com>
+Date:   Fri Feb 23 11:34:57 2024 -0400
+
+    add ft notication SMS
+
+[33mcommit 3ea5e8420a95af59b7ea64ebb93a1e7fd5ef85ed[m
+Author: jose-mata <jg.colon@gmail.com>
+Date:   Fri Feb 23 11:34:29 2024 -0400
+
+    add ft notification mail
+
+[33mcommit 11333210bc8a109f2e3962c1294a81339deb5f42[m
+Author: jose-mata <jg.colon@gmail.com>
+Date:   Fri Feb 23 11:06:11 2024 -0400
+
+    first release
