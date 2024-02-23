@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MI PAGINA</title>
+    <style>
+
+
+
+         main > section
+         {
+             padding: 10px;
+         }
+         @media print {
+            header {
+                 display: none;
+             }
+         }
+
+         @media (max-width: 600px) {
+             #s2 {
+                 background-color: red;
+             }
+
+             header {
+                 display: none;
+             }
+
+             footer {
+                 display: none;
+             }
+         }
+
+
+         @media (min-width: 601px) {
+             #s2 {
+                 background-color: blue;
+             }
+
+
+         }
+    </style>
+</head>
+<body>
+<header id="h1">
+    header
+</header>
+<main id="m1" style="height: 300px;" >
+    main
+    <section id="s1">
+        section1
+    </section>
+
+    <section id="s2">
+        section 2
+    </section>
+
+</main>
+<footer id="f1">
+    footer
+</footer>
+</body>
+</html>
